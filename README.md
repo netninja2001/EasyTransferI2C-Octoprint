@@ -1,2 +1,2 @@
 # EasyTransferI2C-Octoprint
-Enable I2C communications between Arduino-based 3D printer enclosure and Raspberry Pi-based Octoprint instance.
+This will enable I2C communications using EasyTransferI2C between an Arduino-based 3D printer enclosure and a Raspberry Pi-based Octoprint instance.
